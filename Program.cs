@@ -24,13 +24,24 @@ namespace DataStructureUsingStackAndQueue
             linkedListStack1.Display();
             linkedListStack1.isEmpty();
             linkedListStack1.Display();
-            */
+            
 
             LinkedListQueue queue = new LinkedListQueue();
             queue.EnQueue(56);
             queue.EnQueue(30);
             queue.EnQueue(70);
             queue.display();
+            */
+
+            LinkedListQueue queue1 = new LinkedListQueue();
+            queue1.EnQueue(56);
+            queue1.EnQueue(30);
+            queue1.EnQueue(70);
+            queue1.display();
+
+            queue1.DeQueue();
+            queue1.display();
+            Console.ReadKey();
         }
     }
 }

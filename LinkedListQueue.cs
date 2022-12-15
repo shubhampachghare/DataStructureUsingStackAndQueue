@@ -16,8 +16,6 @@ namespace DataStructureUsingStackAndQueue
 
         public void EnQueue(int data)
         {
-
-
             Node node = new Node(data);
             if (head == null)
             {
@@ -39,6 +37,20 @@ namespace DataStructureUsingStackAndQueue
                 
                 
 
+            }
+        }
+
+        public void DeQueue()
+        {
+
+            if (this.head == null)
+            {
+                Console.WriteLine("Queue is empty");
+            }
+            else
+            {
+                Console.WriteLine(this.head.data + "is removed from Queue");
+                this.head = this.head.next;
             }
         }
         public void display()
