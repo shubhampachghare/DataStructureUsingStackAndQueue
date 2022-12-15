@@ -1,0 +1,15 @@
+C:\RFP-231-Assg\DataStructureUsingStackAndQueue\bin\Debug\net6.0\DataStructureUsingStackAndQueue.exe
+C:\RFP-231-Assg\DataStructureUsingStackAndQueue\bin\Debug\net6.0\DataStructureUsingStackAndQueue.deps.json
+C:\RFP-231-Assg\DataStructureUsingStackAndQueue\bin\Debug\net6.0\DataStructureUsingStackAndQueue.runtimeconfig.json
+C:\RFP-231-Assg\DataStructureUsingStackAndQueue\bin\Debug\net6.0\DataStructureUsingStackAndQueue.dll
+C:\RFP-231-Assg\DataStructureUsingStackAndQueue\bin\Debug\net6.0\DataStructureUsingStackAndQueue.pdb
+C:\RFP-231-Assg\DataStructureUsingStackAndQueue\obj\Debug\net6.0\DataStructureUsingStackAndQueue.csproj.AssemblyReference.cache
+C:\RFP-231-Assg\DataStructureUsingStackAndQueue\obj\Debug\net6.0\DataStructureUsingStackAndQueue.GeneratedMSBuildEditorConfig.editorconfig
+C:\RFP-231-Assg\DataStructureUsingStackAndQueue\obj\Debug\net6.0\DataStructureUsingStackAndQueue.AssemblyInfoInputs.cache
+C:\RFP-231-Assg\DataStructureUsingStackAndQueue\obj\Debug\net6.0\DataStructureUsingStackAndQueue.AssemblyInfo.cs
+C:\RFP-231-Assg\DataStructureUsingStackAndQueue\obj\Debug\net6.0\DataStructureUsingStackAndQueue.csproj.CoreCompileInputs.cache
+C:\RFP-231-Assg\DataStructureUsingStackAndQueue\obj\Debug\net6.0\DataStructureUsingStackAndQueue.dll
+C:\RFP-231-Assg\DataStructureUsingStackAndQueue\obj\Debug\net6.0\refint\DataStructureUsingStackAndQueue.dll
+C:\RFP-231-Assg\DataStructureUsingStackAndQueue\obj\Debug\net6.0\DataStructureUsingStackAndQueue.pdb
+C:\RFP-231-Assg\DataStructureUsingStackAndQueue\obj\Debug\net6.0\DataStructureUsingStackAndQueue.genruntimeconfig.cache
+C:\RFP-231-Assg\DataStructureUsingStackAndQueue\obj\Debug\net6.0\ref\DataStructureUsingStackAndQueue.dll
